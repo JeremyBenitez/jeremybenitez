@@ -1,3 +1,24 @@
+<!-- VISITOR COUNTER - TOP LEFT CORNER -->
+<div style="position: absolute; top: 10px; left: 10px;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JeremyBenitez.JeremyBenitez&left_text=Visitors&left_color=gray&right_color=purple" alt="Profile views" />
+</div>
+
+<!-- IMPORTANTE: Como GitHub no soporta position:absolute, usamos una tabla para simularlo -->
+<table width="100%">
+  <tr>
+    <td width="33%" align="left">
+      <!-- Visitor Counter en la izquierda -->
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=JeremyBenitez.JeremyBenitez&left_text=👀%20Visitors&left_color=gray&right_color=purple" alt="Profile views" />
+    </td>
+    <td width="34%" align="center">
+      <!-- Espacio central vacío -->
+    </td>
+    <td width="33%" align="right">
+      <!-- Espacio derecho vacío -->
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <!-- GitHub Logo en blanco -->
   <img src="https://skillicons.dev/icons?i=github" height="120" alt="github logo" />
@@ -19,8 +40,6 @@
   <!-- Portfolio link con estilo -->
   <a href="https://miportafoliojere.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Explore_my_projects-FF00FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=black" alt="Portfolio" />
-    <!-- Visitor Badge 100% funcional -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JeremyBenitez.JeremyBenitez&left_color=gray&right_color=purple" alt="Profile views" />
   </a>
 </div>
 
@@ -59,8 +78,6 @@
   <a href="mailto:benitezjeremy847@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  
-  
 </div>
 
 <!-- Divisor -->
@@ -80,23 +97,18 @@
   <br>
   <br>
   
-  <!-- ALTERNATIVA 1 PARA GITHUB STATS - Metrics (MUY CONFIABLE) -->
+  <!-- Metrics - MUY CONFIABLE -->
   <img src="https://metrics.lecoq.io/JeremyBenitez?template=classic&isocalendar=1&languages=1&stars=1&achievements=1&lines=1" width="70%" alt="GitHub Metrics" />
   
   <br>
   <br>
   
-  <!-- ALTERNATIVA 2 - Profile Summary Cards (100% FUNCIONAL) -->
+  <!-- Profile Summary Cards -->
   <div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeremyBenitez&theme=radical" width="32%" alt="Repos per language" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeremyBenitez&theme=radical" width="32%" alt="Most commit language" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeremyBenitez&theme=radical" width="32%" alt="Stats" />
   </div>
-  
-  <br>
-  
-  <!-- ALTERNATIVA 3 - Wakatime Style (si usas Wakatime) -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JeremyBenitez&theme=midnight-purple&hide_border=true" width="48%" alt="Wakatime Stats" /> -->
 </div>
 
 <!-- Divisor -->
@@ -110,13 +122,13 @@
 </h2>
 
 <div align="center">
-  <!-- GitHub Activity Graph - SIEMPRE FUNCIONA -->
+  <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeremyBenitez&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=FF00FF&line=00FFFF&point=FFFFFF" width="95%" alt="Activity Graph">
   
   <br>
   <br>
   
-  <!-- Profile Details Card - COMPLEMENTO -->
+  <!-- Profile Details Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeremyBenitez&theme=radical" width="90%" alt="Profile Summary" />
 </div>
 
@@ -133,7 +145,7 @@
   <br>
   <br>
   
-  <!-- Random Dev Quote - SIEMPRE FUNCIONA -->
+  <!-- Random Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" alt="Random Dev Quote" />
   
   <br>
