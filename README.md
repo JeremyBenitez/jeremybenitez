@@ -1,23 +1,6 @@
-<!-- VISITOR COUNTER - TOP LEFT CORNER -->
-<div style="position: absolute; top: 10px; left: 10px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JeremyBenitez.JeremyBenitez&left_text=Visitors&left_color=gray&right_color=purple" alt="Profile views" />
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JeremyBenitez.JeremyBenitez&left_color=darkgray" alt="Profile views" />
 </div>
-
-<!-- IMPORTANTE: Como GitHub no soporta position:absolute, usamos una tabla para simularlo -->
-<table width="100%">
-  <tr>
-    <td width="33%" align="left">
-      <!-- Visitor Counter en la izquierda -->
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=JeremyBenitez.JeremyBenitez&left_text=👀%20Visitors&left_color=gray&right_color=purple" alt="Profile views" />
-    </td>
-    <td width="34%" align="center">
-      <!-- Espacio central vacío -->
-    </td>
-    <td width="33%" align="right">
-      <!-- Espacio derecho vacío -->
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <!-- GitHub Logo en blanco -->
