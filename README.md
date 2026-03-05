@@ -19,6 +19,8 @@
   <!-- Portfolio link con estilo -->
   <a href="https://miportafoliojere.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Explore_my_projects-FF00FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=black" alt="Portfolio" />
+    <!-- Visitor Badge 100% funcional -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JeremyBenitez.JeremyBenitez&left_color=gray&right_color=purple" alt="Profile views" />
   </a>
 </div>
 
@@ -58,8 +60,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   
-  <!-- Visitor Badge 100% funcional -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JeremyBenitez.JeremyBenitez&left_color=gray&right_color=purple" alt="Profile views" />
+  
 </div>
 
 <!-- Divisor -->
